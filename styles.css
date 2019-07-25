@@ -1,0 +1,135 @@
+h1{
+  font-family: 'Anton', sans-serif;
+  background-color: lightblue;
+  background-color: #8FBC8F;
+  color: #FFFFFF;
+}
+.span{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+p{
+  color: lightblue;
+text-align: center;
+text-decoration: underline;
+}
+
+.hamilton-logo{
+  width:300px;
+  height:250px;
+  padding: 30px;
+  background-color: #B6CEC7;
+  border-radius: 40px;
+  margin: 25px;
+}
+
+.global{
+  width:300px;
+  height:250px;
+    padding: 30px;
+    background-color: #B6CEC7;
+    border-radius: 40px;
+    margin: 25px;
+}
+
+
+
+.music{
+  width:300px;
+  height: 250px;
+    padding: 30px;
+    background-color: #D8E0BB;
+    border-radius: 40px;
+    margin: 25px;
+
+}
+
+.clock1{
+  width:300px;
+  height:250px;
+  padding:30px;
+  background-color: #B6CEC7;
+  border-radius: 40px;
+  margin: 25px;
+
+}
+
+.tonga{
+  width:300px;
+  height:250px;
+  padding:30px;
+  background-color: #D8E0BB;
+  border-radius: 40px;
+margin: 25px;
+}
+
+.samoa{
+  width:300px;
+  height:250px;
+  padding:30px ;
+  background-color: #D8E0BB;
+  border-radius: 40px;
+  margin: 25px;
+
+}
+.buzzfeed{
+  width:300px;
+  height:250px;
+  padding:30px;
+  background-color: #B6CEC7;
+  border-radius: 40px;
+  margin: 25px;
+
+}
+.quote1{
+  width:300px;
+  height:250px;
+  padding:30px;
+  background-color: #D8E0BB;
+  border-radius: 40px;
+  margin: 25px;
+
+}
+
+.king{
+  width:300px;
+  height:250px;
+  padding:30px ;
+  background-color: #B6CEC7;
+  border-radius: 40px;
+  margin: 25px;
+
+}
+
+.perry{
+  width:300px;
+  height:250px;
+  padding:30px;
+  background-color: #D8E0BB;
+  border-radius: 40px;
+  margin: 25px;
+
+}
+
+.asb{
+  width:300px;
+  height:250px;
+  padding:25px;
+  background-color: #B6CEC7;
+  border-radius: 40px;
+margin: 25px;
+
+}
+
+.pro{
+  width:300px;
+  height:250px;
+  padding:30px;
+  background-color: #D8E0BB;
+  border-radius: 40px;
+  margin: 40px;
+
+
+}
